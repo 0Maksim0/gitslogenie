@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	int a = 10;
-	int b = 20;
+	int a = 15;
+	int b = 8;
 	int c;
 	c=a+b;
 	cout<<"C = "<<c<<endl;
